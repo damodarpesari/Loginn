@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059730486047",
+    "firebase_url": "https://testlogin-707ba.firebaseio.com",
+    "project_id": "testlogin-707ba",
+    "storage_bucket": "testlogin-707ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059730486047:android:cd8d5c387f38b83513362a",
+        "android_client_info": {
+          "package_name": "com.example.Loginn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059730486047-ef3fgjp854r3l9qctj4ld29085todk36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5dnzD20P3WPnmL6jPi76cImfwstPRWzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059730486047-ef3fgjp854r3l9qctj4ld29085todk36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
